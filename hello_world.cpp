@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+// Program asks username and prints greeting message
 int main()
 {
     std::string name;
